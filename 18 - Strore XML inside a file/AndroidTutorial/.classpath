@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-client-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-client-meta-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-core-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-spreadsheet-meta-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/guava-11.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/jsr305.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-spreadsheet-3.0.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-analytics-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-analytics-meta-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-appsforyourdomain-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-appsforyourdomain-meta-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-base-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-blogger-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-blogger-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-books-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-books-meta-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-calendar-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-calendar-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-codesearch-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-codesearch-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-contacts-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-contacts-meta-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-docs-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-docs-meta-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-finance-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-finance-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-gtt-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-gtt-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-health-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-health-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-maps-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-maps-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-media-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-photos-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-photos-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-projecthosting-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-projecthosting-meta-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-sidewiki-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-sidewiki-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-sites-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-sites-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-webmastertools-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-webmastertools-meta-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-youtube-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/NITCHITH/Documents/new/AndroidTutorial/mylib/gdata-youtube-meta-2.0.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
